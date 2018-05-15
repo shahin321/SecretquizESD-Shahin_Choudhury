@@ -23,7 +23,7 @@ if (isset($_POST["pseudo"]) == 1)
     <!-- Required meta tags -->
     <meta charset="utf-8">
     <link rel="stylesheet" href="style.css">
-<title>Secret Quiz ESD</title>
+<title>Secret Quiz ESD S</title>
 </head>
 <body>
       <h1>Bienvenue dans Secret Quiz ESD</h1>
