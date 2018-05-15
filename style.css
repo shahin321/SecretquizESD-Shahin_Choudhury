@@ -1,0 +1,21 @@
+html {
+	background-color: darkblue;
+	opacity: 0.8;
+}
+
+h1 {
+text-align: center;
+color: white;
+margin-top: 50px;
+}
+
+.formulaire {
+ text-align: center;
+ margin-top: 300px;
+ color: white;
+}
+
+.pseudo_game {
+ font-size: 24px;
+}
+
